@@ -2,7 +2,7 @@
 
 Part1: https://www.nine.ch/en/engineering-logbook/dockerising-my-workstation-with-atomic-part-1
 
-Part2: Coming Soon......
+Part2: https://www.nine.ch/en/engineering-logbook/dockerising-my-workstation-with-atomic-part-2
 
 This is image was built with podman https://github.com/projectatomic/libpod
 
